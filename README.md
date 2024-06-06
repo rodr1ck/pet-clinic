@@ -1,2 +1,1 @@
-# pet-clinic
-Proyecto Java
+# spring-clinic
